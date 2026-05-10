@@ -1,0 +1,25 @@
+
+# Mejoras implementadas en Software FJ
+
+## Nuevas funcionalidades agregadas
+
+✔ Persistencia básica de datos usando archivos JSON.
+✔ Archivo de pruebas automáticas con unittest.
+✔ Mejor organización del proyecto.
+✔ Base preparada para futuras mejoras.
+
+## Cómo ejecutar las pruebas
+
+Ejecutar en consola:
+
+python test_software_fj.py
+
+## Nueva persistencia JSON
+
+El archivo persistencia.py permite:
+
+- Guardar clientes
+- Cargar clientes
+- Simular almacenamiento sin usar bases de datos
+
+Esto fortalece el proyecto y mejora la escalabilidad.
